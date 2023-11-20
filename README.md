@@ -15,3 +15,11 @@ I am **Kevin Pratama**, and I am passionate about Software Engineering with a fo
 📬 If you share similar interests or have exciting opportunities, feel free to reach out to me at kpratama1201@gmail.com.<br>
 
 Let's build robust and scalable solutions together! 🌟<br>
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/kevinma21">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kevinma21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kevinma21&layout=compact&theme=algolia"/>
+</a>
+</p>
