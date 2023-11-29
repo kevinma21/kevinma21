@@ -2,7 +2,7 @@
 
 I am **Kevin Pratama**, and I am passionate about Software Engineering with a focus on Backend Development. 💻 <br>
 
-👨‍🎓 Currently, I am an Undergraduate (more specific i am in second years) Student at Mercubuana University, where I am honing my skills and knowledge in computer science.<br>
+👨‍🎓 Currently, I am an Undergraduate (more specific i am sophomore year) Student at Mercubuana University, where I am honing my skills and knowledge in computer science.<br>
 
 🚀 Here's what defines me:<br>
 - 💼 I am deeply interested in Software Engineering, especially in Backend Development.<br>
