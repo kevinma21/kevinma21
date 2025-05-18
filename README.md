@@ -1,6 +1,6 @@
 ## Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm Kevin Pratama an undergraduated student at Mercu Buana University. Interested in learning and exploring more about Software Development and Machine Leraning.
+I'm Kevin an undergraduated student at Mercu Buana University. Interested in learning and exploring more about Software Development and Machine Leraning.
 
 ### Tech Stacks
 <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" /></a>
