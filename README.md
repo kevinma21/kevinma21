@@ -2,13 +2,6 @@
 
 I'm Kevin an undergraduated student at Mercu Buana University. Interested in learning and exploring more about Software Development and Machine Leraning.
 
-### Tech Stacks
-<a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" /></a>
-<a href="#"><img align="left" alt="C++" title="C++" width="21px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" /></a>
-<a href="#"><img align="left" alt="Python" title="Python" width="21px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" /></a>
-<a href="#"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png" /></a>
-<br>
-
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/kevinma21">
