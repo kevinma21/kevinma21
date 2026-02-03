@@ -1,6 +1,6 @@
 ## Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm Kevin an undergraduated student at Mercu Buana University. Interested in learning and exploring more about Software Development and Machine Leraning.
+I'm <a href="https://kevinpratama.vercel.app/">Kevin</a> an undergraduated student at Mercu Buana University. Interested in learning and exploring more about Software Development and Machine Leraning.
 
 ### Github Statistic
 <p align="left">
